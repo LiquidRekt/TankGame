@@ -1,0 +1,10 @@
+E:\VS Projects\TankGame\TankGame\obj\Debug\TankGame.csprojResolveAssemblyReference.cache
+E:\VS Projects\TankGame\TankGame\obj\Debug\TankGame.Properties.Resources.resources
+E:\VS Projects\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
+E:\VS Projects\TankGame\TankGame\obj\Debug\TankGame.csproj.CoreCompileInputs.cache
+E:\VS Projects\TankGame\TankGame\bin\Debug\TankGame.exe.config
+E:\VS Projects\TankGame\TankGame\bin\Debug\TankGame.exe
+E:\VS Projects\TankGame\TankGame\bin\Debug\TankGame.pdb
+E:\VS Projects\TankGame\TankGame\obj\Debug\TankGame.TankGame.resources
+E:\VS Projects\TankGame\TankGame\obj\Debug\TankGame.exe
+E:\VS Projects\TankGame\TankGame\obj\Debug\TankGame.pdb
